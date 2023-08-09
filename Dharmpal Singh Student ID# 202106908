@@ -13,7 +13,6 @@ System.out.println(calc.divide(1, 2));
 
 }
 
-
 class Calculator {
    // Our Business Domain rules are to provide the rules of basic arithmetic
    
